@@ -1,4 +1,8 @@
 Note here:
+
+
+
+
         //Bitmap
         Drawable drawable = ResourcesCompat.getDrawable(getResources(), R.drawable.icon, null);
         BitmapDrawable bitmapDrawable = (BitmapDrawable) drawable;
